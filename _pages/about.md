@@ -3,7 +3,10 @@
 		 title: "About me"
 		 excerpt: "About me"
 		 author_profile: true
+		 redirect_from: 
+		   - /about/
+		   - /about.html
 
  ---
 
-Some information
+Some information on me is here.
