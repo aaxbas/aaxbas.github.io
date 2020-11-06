@@ -8,4 +8,4 @@
 		   - /about.html
  ---
 
-# About Me
+Some information
