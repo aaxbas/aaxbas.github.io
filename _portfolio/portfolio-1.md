@@ -14,11 +14,15 @@ The IMechE UAS Challenge is an annual competition for the design and development
 
 ![](/images/portfolio/CV-hex.jpg)
 
+GitHub: https://github.com/jnoxro/HipPy
+
 In 2019, I was elected as Contol Team Leader where I:
 * Led a team of multi-disciplinary engineers in designing and developing the control system used in an autonomous aircraft to compete in the IMechE UAS Challenge.
 * Expanded upon previous year’s control system design, including updating hardware to match modern standards and re-writing code to increase efficiency.
 * Oversaw the development of a new computer vision program in C++ and OpenCV to improve target detection speed.
 * Designed an antenna tracking system with a custom PCB that increased the range of the communication system to 20 KM.
+
+GitHub: https://github.com/Project-Hex/HexControl1920
 
 ## Media
 ![](/images/portfolio/anttrack-hex.jpg)
