@@ -22,7 +22,7 @@ In 2019, I was elected as Contol Team Leader where I:
 * Oversaw the development of a new computer vision program in C++ and OpenCV to improve target detection speed.
 * Designed an antenna tracking system with a custom PCB that increased the range of the communication system to 20 KM.
 
-GitHub: [https://github.com/Project-Hex/HexControl1920]([https://github.com/Project-Hex/HexControl1920])
+GitHub: [https://github.com/Project-Hex/HexControl1920](https://github.com/Project-Hex/HexControl1920)
 
 ## Media
 ![](/images/portfolio/anttrack-hex.jpg)
