@@ -35,7 +35,7 @@ Work experience
 
 Skills
 ======
-* C,C++, Python and Java
+* C, C++, Python and Java
 * MySQL
 * PCB design
 * Embedded systems development including: Arduino, STM32, Raspberry Pi, PIC, and ESP32
