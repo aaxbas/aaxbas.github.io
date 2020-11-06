@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MEng Computer Systems Engineering, The University of Sheffield, 2018-2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2020 - Present, Research Associate in Autonomous Robotics, The University of Sheffield
+  * Working within a team of PhD students, university lecturers and researchers from multiple universities to develop an innovative long-term localization solution contextualised in the (Fairspace AdMaLL Project)[https://sites.google.com/view/fairsapce-admall].
+• Developing global localization solutions using mobile Robotic Systems utilizing ROS.
+• Surveying literature and implementing new technologies and theories relevant to mapping and localization.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Jun 2020 - November 2020 Back-End & API Developer, EURUS.OG
+  * Developed and maintained RESTful APIs with firebase using the following frameworks:
+    * Python-Django
+    * Node.js
+  * Responsible for the design and structure of all databases used.
+  * Deployed docker containers to cloud services including Heroku and DigitalOceans.
+
+* Jun 2020 - Present, Simurq Aeronautics President
+  * High-level management of 2 autonomous aircraft development teams, Project Hex and Project Volaticus. In charge of funding, member recruitment, and overall project management at a committee level.
+  * Established a third, research-based team, SunFalco, which aims to explore winged-S/VTOL aircraft, and managed recruitment, outreach, marketing, and funding.
+  * Improved team productivity, management and planning which resulted in an increase in members by over 150%
+
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C,C++, Python and Java
+* MySQL
+* PCB design
+* Embedded systems development including: Arduino, STM32, Raspberry Pi, PIC, and ESP32
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
