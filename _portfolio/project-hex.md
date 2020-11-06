@@ -1,6 +1,6 @@
 ---
 title: "Project Hex - Autonomous Hexacopter"
-excerpt: "Drone built to compete in the IMechE UAS Challenge.<br/><img src='/images/portfolio/HEX.gif'>"
+excerpt: "Drone built to compete in the IMechE UAS Challenge<br/><img src='/images/portfolio/HEX.gif'>"
 collection: portfolio
 ---
 
@@ -16,7 +16,7 @@ The IMechE UAS Challenge is an annual competition for the design and development
 
 GitHub: [https://github.com/jnoxro/HipPy](https://github.com/jnoxro/HipPy)
 
-In 2019, I was elected as Contol Team Leader where I:
+In 2019, I was elected as Control Team Leader where I:
 * Led a team of multi-disciplinary engineers in designing and developing the control system used in an autonomous aircraft to compete in the IMechE UAS Challenge.
 * Expanded upon previous year’s control system design, including updating hardware to match modern standards and re-writing code to increase efficiency.
 * Oversaw the development of a new computer vision program in C++ and OpenCV to improve target detection speed.
