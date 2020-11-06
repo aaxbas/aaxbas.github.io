@@ -16,11 +16,11 @@ Education
 Work experience
 ======
 * Sep 2020 - Present, Research Associate in Autonomous Robotics, The University of Sheffield
-  * Working within a team of PhD students, university lecturers and researchers from multiple universities to develop an innovative long-term localization solution contextualised in the (Fairspace AdMaLL Project)[https://sites.google.com/view/fairsapce-admall].
-• Developing global localization solutions using mobile Robotic Systems utilizing ROS.
-• Surveying literature and implementing new technologies and theories relevant to mapping and localization.
+  * Working within a team of PhD students, university lecturers and researchers from multiple universities to develop an innovative long-term localization solution contextualised in the [Fairspace AdMaLL Project](https://sites.google.com/view/fairsapce-admall).
+* Developing global localization solutions using mobile Robotic Systems utilizing ROS.
+* Surveying literature and implementing new technologies and theories relevant to mapping and localization.
 
-* Jun 2020 - November 2020 Back-End & API Developer, EURUS.OG
+* Jun 2020 - November 2020, Back-End & API Developer, EURUS.OG
   * Developed and maintained RESTful APIs with firebase using the following frameworks:
     * Python-Django
     * Node.js
@@ -31,7 +31,6 @@ Work experience
   * High-level management of 2 autonomous aircraft development teams, Project Hex and Project Volaticus. In charge of funding, member recruitment, and overall project management at a committee level.
   * Established a third, research-based team, SunFalco, which aims to explore winged-S/VTOL aircraft, and managed recruitment, outreach, marketing, and funding.
   * Improved team productivity, management and planning which resulted in an increase in members by over 150%
-
 
 
 Skills
