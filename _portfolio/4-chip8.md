@@ -17,8 +17,8 @@ The project required learning skills and technologies new to me at the time, suc
 - Creating a GUI 
 - Working with Binary and Hexadecimal information (e.g. File I/O, Assemblers, etc).
 
-The code can be found at: https://github.com/aaxbas/CHIP8
+The code can be found at: [https://github.com/aaxbas/CHIP8](https://github.com/aaxbas/CHIP8)
 
 I have also made a port to the system intended for embedded systems such as an Arduino. This helped me improve the design of my modular structure, and verified my initial ideas. 
 
-The code can be found at: https://github.com/aaxbas/EmbeddedCHIP8
+The code can be found at: [https://github.com/aaxbas/EmbeddedCHIP8](https://github.com/aaxbas/EmbeddedCHIP8)
