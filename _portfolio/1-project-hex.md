@@ -34,7 +34,7 @@ In the 18/19 competition entry we were able to enter the fly off event and succe
 radio interference, which resulted in the UAS to set off it's emergency flight termination system, where the competition guidelines stated that all motors most completely stop operating. Of course this caused the UAS to fall out of the sky and spectacularly crash into the nearby grass. Although we were disheartened, it was a very valuable learning experience and a definite area of improvement to focus on in our next entries. After all of this, we still managed to make it to 10th place in the overall rankings.
 
 ### 2019-20
-Unfortunately, since the competition this season was held virtually, we were unable to test all systems in real life. However, we were able to make a test vehicle, where we tested the basic control and communication system as well as the piloted flight mode, and collected the data in order to discover areas of improvement for the design of the competition UAS. We ended up placing 4th place thanks to our innovative mechanical and software design, and concept validation results from our test flight.
+Unfortunately, since the competition this season was held virtually, we were unable to test all systems in real life. However, we were able to make a test vehicle, where we tested the basic control and communication system as well as the piloted flight mode, and collected the data in order to discover areas of improvement for the design of the competition UAS. We ended up placing 4th thanks to our innovative mechanical and software design, and concept validation results from our test flight.
 
 ## Media
 ![](/images/portfolio/anttrack-hex.jpg)
