@@ -10,7 +10,7 @@ We were given a small budget and a kit containing 2 Arduino Megas and some basic
 
 ![](/images/portfolio/y2-forklift.gif)
 
-## Tasks
+## Role
 I worked on developing the main control/navigation system and designing the electric circuit. The navigation system consisted of 2 IR receivers placed on the robot and 4 IR transmitters placed on the stretcher, tuned at different frequencies.
 This allowed for 2D orientation tracking of the stretcher to be picked up. To safely pick up the stretcher and ensure that it is balanced appropriately, a simple proportional controller was implemented to control the amount of movement required
 to rebalance the stretcher.
