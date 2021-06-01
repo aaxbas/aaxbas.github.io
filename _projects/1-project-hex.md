@@ -1,7 +1,7 @@
 ---
 title: "Project Hex - Autonomous Hexacopter"
 excerpt: "Drone built to compete in the IMechE UAS Challenge<br/><img src='/images/portfolio/HEX.gif'>"
-collection: portfolio
+collection: projects
 ---
 
 The IMechE UAS Challenge is an annual competition for the design and development of unmanned aerial systems (UAS). I worked on developing the computer vision, communications and navigation subsystems. This has given me a lot of experience in embedded systems and linux development, as well as radio communications. 

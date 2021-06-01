@@ -1,7 +1,7 @@
 ---
 title: "Year 2 Project - IR Based Autonomous Vehicle Tracking System"
 excerpt: "Year 2 University Project<br/><img src='/images/portfolio/y2-project.jpg'>"
-collection: portfolio
+collection: projects
 ---
 
 For this project we were tasked with creating an autonomous mobile robot system. We decided to develop our idea based on IR based autonomous navigation in ambulances

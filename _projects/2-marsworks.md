@@ -1,7 +1,7 @@
 ---
 title: "MarsWorks - European Rover Challenge"
 excerpt: "Rover built to compete in the European Rover Challenge(ERC)<br/><img src='/images/portfolio/marsworks_robot.jpg'>"
-collection: portfolio
+collection: projects
 ---
 
 The European Rover Challenge (ERC) is an international, annual space robotics competition held in Poland. 

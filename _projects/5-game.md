@@ -1,7 +1,7 @@
 ---
 title: "Game Written in C and SDL2"
 excerpt: "SDL2 and C game made for a first year university project<br/><img src='/images/portfolio/game.gif'>"
-collection: portfolio
+collection: projects
 ---
 
 This is a project I submitted as a university project during my 1st year, which also happened to be my very first experience with SDL2 and game development,
